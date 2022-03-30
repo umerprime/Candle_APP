@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1058691511889",
+    "project_id": "virtual-candle-7d638",
+    "storage_bucket": "virtual-candle-7d638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058691511889:android:3b42276adace27bc94aa70",
+        "android_client_info": {
+          "package_name": "com.candle.virtual.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058691511889-3kn1ndodm4mojrntllabalk9dnensiub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.candle.virtual.app",
+            "certificate_hash": "36c08c937a5d8ed14d52903e6f3b42f23fc84e35"
+          }
+        },
+        {
+          "client_id": "1058691511889-65anrgbbl12mm5k2l9auj4sjvc9fvgrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALxzoSKb2j1wTqDbx4NQGAYOGgvzxpywc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058691511889-65anrgbbl12mm5k2l9auj4sjvc9fvgrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
